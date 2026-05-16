@@ -1,5 +1,5 @@
 /**
- *  Java program to demonstrate methods wait(), notify().
+ *  Java program to demonstrate methods wait() and notify().
  */
 
 package com.mythreads;
